@@ -2,6 +2,7 @@
 
 [![star this repo](http://githubbadges.com/star.svg?user=react-native-community&repo=react-native-webview&style=flat)](https://github.com/react-native-community/react-native-webview) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors) [![Known Vulnerabilities](https://snyk.io/test/github/react-native-community/react-native-webview/badge.svg?style=flat-square)](https://snyk.io/test/github/react-native-community/react-native-webview)![version](https://img.shields.io/npm/v/react-native-webview.svg)
 
+**purpose of creating fork**
 2.0.0 Version with fix warning (Accessing view manager configs directly off UIManager via UIManager['RNCWKWebView'] is no longer supported. Use UIManager.getViewManagerConfig('RNCWKWebView') instead.)
 
 
