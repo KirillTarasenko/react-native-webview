@@ -4,7 +4,7 @@
 
 **purpose of creating fork**
 
-2.0.0 Version with fix warning (Accessing view manager configs directly off UIManager via UIManager['RNCWKWebView'] is no longer supported. Use UIManager.getViewManagerConfig('RNCWKWebView') instead.)
+2.0.1 Version with fix warning (Accessing view manager configs directly off UIManager via UIManager['RNCWKWebView'] is no longer supported. Use UIManager.getViewManagerConfig('RNCWKWebView') instead.)
 
 
 **React Native WebView** is a modern, well-supported, and cross-platform WebView for React Native. It is intended to be a replacement for the built-in WebView (which will be [removed from core](https://github.com/react-native-community/discussions-and-proposals/pull/3)).
